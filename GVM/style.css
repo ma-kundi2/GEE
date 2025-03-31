@@ -1,0 +1,36 @@
+.menu_bar{
+    background-color: black;
+    color: azure;
+    height: 300px;
+    display: list-item;
+    align-items: end;
+    justify-content: space-between;
+}
+.Logo{
+    color:  yellow;
+    font-size: 70px;
+}
+.Logo span{
+    color: aqua;
+}
+.menu_bar ul{
+    list-style: none;
+    
+    color: aliceblue;
+    
+
+
+}
+
+.menu_bar ul li a{
+    color: var(--color-white);
+    text-decoration: none;
+    
+}
+.menu_bar ul li a:hover{
+    color: blue;
+    
+}
+.menu_bar li {
+    color: white;
+}
